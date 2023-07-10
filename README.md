@@ -21,6 +21,8 @@ washington.csv
 ### Credits
 none
 
+<<<<<<< HEAD
 ### more changes
 
 I am adding more changes just to train
+
