@@ -18,3 +18,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ### refactoring training
 
 this comment is just training
+
+### refactoring II
+
+more changes just to check
